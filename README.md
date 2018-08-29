@@ -1,3 +1,12 @@
+A simple developmental model recapitulates complex
+insect wing venation patterns
+
+Jordan Hoffmann
+Seth Donoughe
+Kathy Li
+Mary Salcedo
+Chris H Rycroft
+
 ***************************************************************
 Wing Segmentation and Circularity Optimization Code
 Code Written By Jordan Hoffmann, Seth Donoughe, Kathy Li

@@ -1,5 +1,3 @@
-MANUSCRIPT NAME
-Jordan Hoffmann, Seth Donoughe, Kathy Li, Mary Salcedo, Chris H. Rycroft
 ***************************************************************
 Wing Segmentation and Circularity Optimization Code
 Code Written By Jordan Hoffmann, Seth Donoughe, Kathy Li
@@ -18,6 +16,15 @@ Optimization
 	-Code used to perform area-weighted circularity optimization
 
 
+Wing Segmentation Citations
+===============================================================
+Garrison, R. W., Ellenrieder, von, N. and Louton, J. A. (2006). Dragonfly genera of the New World : an illustrated and annotated key to the Anisoptera. Baltimore, MD: JHU Press.
+
+Garrison, R. W., Ellenrieder, von, N. and Louton, J. A. (2010). Damselfly genera of the New World : an illustrated and annotated key to the Zygoptera. Baltimore, MD: JHU Press.
+
+Needham, J. G., Westfall, M. J. and May, M. L. (2014). Dragonflies of North America : the Odonata (Anisoptera) fauna of Canada, the continental United States, northern Mexico and the Greater Antilles. Third edition. Gainesville, FL: Scientific Publishers.
+
+Westfall, M. J. and May, M. L. (1996). Damselflies of North America. Scientific Publishers Gainesville.
 
 Code Requirements
 ===============================================================

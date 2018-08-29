@@ -1,10 +1,10 @@
 A simple developmental model recapitulates complex
 insect wing venation patterns
 
-Jordan Hoffmann
-Seth Donoughe
-Kathy Li
-Mary Salcedo
+Jordan Hoffmann,
+Seth Donoughe,
+Kathy Li,
+Mary K. Salcedo,
 Chris H Rycroft
 
 ***************************************************************

@@ -56,6 +56,11 @@ Code Requirements
 		glob
 
 
+
+Video
+===============================================================
+See: https://www.youtube.com/watch?v=VNW66Iuc-VI
+
 Running the code
 ===============================================================
 Once dependencies installed:

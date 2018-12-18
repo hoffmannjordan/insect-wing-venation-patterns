@@ -64,10 +64,10 @@ See: https://www.youtube.com/watch?v=VNW66Iuc-VI
 Running the code
 ===============================================================
 Once dependencies installed:
->>> cd Segment_Wing_Image
->>> python generate_seeds_and_velocity.py
->>> python segment.py
->>> python mask_image.py
->>> cd ..
+`cd Segment_Wing_Image
+python generate_seeds_and_velocity.py
+python segment.py
+python mask_image.py
+cd ..`
 Open Mathematica Notebook for Polygonization and Optimization routines.
 

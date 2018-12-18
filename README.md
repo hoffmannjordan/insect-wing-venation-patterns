@@ -57,7 +57,7 @@ Code Requirements
 
 
 
-Video
+Video of Optimization Routine
 ===============================================================
 See: https://www.youtube.com/watch?v=VNW66Iuc-VI
 
@@ -73,3 +73,7 @@ cd ..
 ```
 Open Mathematica Notebook for Polygonization and Optimization routines.
 
+Manuscript Information
+===============================================================
+Here is a great twitter thread from Seth Donouhe: https://twitter.com/seth_donoughe/status/1041802508585394177
+Here is an article from the Harvard SEAS news office: https://www.seas.harvard.edu/content/lord-of-wings
